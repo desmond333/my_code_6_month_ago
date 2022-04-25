@@ -1,0 +1,1 @@
+export { ProfessionalAccount } from './ProfessionalAccount'
